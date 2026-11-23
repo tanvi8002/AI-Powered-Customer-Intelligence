@@ -6,6 +6,10 @@ The AI-Powered Customer Intelligence & Predictive Analytics Platform is a data a
 
 This project combines Python, SQL, Machine Learning, and Power BI to convert raw customer data into meaningful business insights.
 
+## Power BI Dashboard Preview
+
+![Power BI Customer Intelligence Dashboard](Screenshots/powerbi_dashboard.png)
+
 ## 2. Problem Statement
 
 Customer churn is a major challenge for businesses because losing customers can affect revenue and business growth.
